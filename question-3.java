@@ -1,16 +1,4 @@
 package application;
-/*
-public class AS23 {
-
-}
-*/
-//package application;
-/*
-public class ContextMenuDemo {
-
-}*/
-
-//package application;
 
 //Demonstrate Menus
 import javafx.application.*;
